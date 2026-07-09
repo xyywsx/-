@@ -5,7 +5,7 @@
 ## Installation
 1. clone this repo.
     ```
-    git clone https://github.com/xyywsx/Research-on-gait-recognition-network-based-on-multi-branch-feature-fusion.git
+    git clone https://github.com/xyywsx/gaitMbgl.git
     ```
 2. Install dependenices:
     - pytorch >= 1.10
