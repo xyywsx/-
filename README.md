@@ -29,7 +29,7 @@
     pip install torch==1.10 torchvision==0.11
     ```
 ## Prepare dataset
-See [prepare dataset](prepare_dataset.md).
+See [prepare dataset](docs/prepare_dataset.md).
 
 ## Train
 Train a model by
